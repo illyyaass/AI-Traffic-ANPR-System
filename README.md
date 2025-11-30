@@ -2,8 +2,6 @@
 
 An advanced Computer Vision project that performs real-time **Vehicle Counting** and **Automatic Number Plate Recognition (ANPR)**. Built with Python, YOLOv8, and EasyOCR, featuring a modern Dark Mode Dashboard.
 
-##  Project Demo
-![Dashboard Screenshot](https://via.placeholder.com/800x450?text=Upload+Your+Screenshot+Here)
 
 ##  Key Features
 
