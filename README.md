@@ -1,22 +1,22 @@
-# 🚗 AI Traffic & ANPR Monitoring System
+#  AI Traffic & ANPR Monitoring System
 
 An advanced Computer Vision project that performs real-time **Vehicle Counting** and **Automatic Number Plate Recognition (ANPR)**. Built with Python, YOLOv8, and EasyOCR, featuring a modern Dark Mode Dashboard.
 
-## 📸 Project Demo
+##  Project Demo
 ![Dashboard Screenshot](https://via.placeholder.com/800x450?text=Upload+Your+Screenshot+Here)
 
-## 🌟 Key Features
+##  Key Features
 
-- **👀 Real-Time Vehicle Detection:** Accurately detects Cars, Trucks, Buses, and Motorcycles using `YOLOv8`.
-- **🔢 Aggressive License Plate Recognition:** Uses `EasyOCR` with advanced image preprocessing (thresholding, zooming) to force-read plates even in low resolution.
-- **📊 Traffic Counting:** Automated logic to count vehicles exiting the frame (OUT Counting).
-- **🖥️ Professional Dashboard:** A custom GUI built with `Tkinter`, featuring:
+- ** Real-Time Vehicle Detection:** Accurately detects Cars, Trucks, Buses, and Motorcycles using `YOLOv8`.
+- ** Aggressive License Plate Recognition:** Uses `EasyOCR` with advanced image preprocessing (thresholding, zooming) to force-read plates even in low resolution.
+- ** Traffic Counting:** Automated logic to count vehicles exiting the frame (OUT Counting).
+- ** Professional Dashboard:** A custom GUI built with `Tkinter`, featuring:
   - Live Video Feed with Bounding Boxes.
   - Real-time "OUT" Counter.
   - Live Activity Log (ID | Type | Plate Number).
-- **📂 Data Logging:** Automatically saves all detections to `traffic_data_out.csv` with timestamps.
+- ** Data Logging:** Automatically saves all detections to `traffic_data_out.csv` with timestamps.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python 3.x**
 - **Ultralytics YOLOv8** (Object Detection)
@@ -25,7 +25,7 @@ An advanced Computer Vision project that performs real-time **Vehicle Counting**
 - **Supervision** (Tracking & Counting Logic)
 - **Tkinter** (Graphical User Interface)
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 AI-Traffic-Monitor/
